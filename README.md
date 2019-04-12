@@ -1,0 +1,1 @@
+A PyTorch implementation of a Generative Adversarial Network. Trained on MNIST dataset to generate new data samples which were not present in the original dataset.
